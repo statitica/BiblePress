@@ -12,4 +12,5 @@ Files and roadmap for the RPi based BiblePress project
   * where systemd fails to give logical names to wifi
 * Add script as a cronjob in custom image
 * Test
+
 Done.
